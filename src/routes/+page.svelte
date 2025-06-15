@@ -33,6 +33,8 @@
       na educação global. O sistema é leve, responsivo e permite que cada estudante descubra insights práticos para 
       planejar seus estudos fora do país.
     </p>
+
+    <a href="https://pt.overleaf.com/project/684ed7a7f3911ef213df0dbe">Link para o Artigo</a>
   </div>
 </section>
 

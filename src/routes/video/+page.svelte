@@ -14,8 +14,6 @@
       allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
       allowfullscreen
     ></iframe>
-
-    <a href="https://pt.overleaf.com/project/684ed7a7f3911ef213df0dbe">Link para o Artigo</a>
   </div>
 </div>
 

@@ -3,9 +3,9 @@
     import { base } from "$app/paths";
 
     let pages = [
-        { url: "./", title: "Home" },
-        { url: "./participantes", title: "Participantes" },
-        { url: "./video", title: "Vídeo" },
+        { url: "/", title: "Home" },
+        { url: "/participantes", title: "Participantes" },
+        { url: "/video", title: "Vídeo" },
         { url: "https://github.com/FGV-VIS-2025/final-project-internacionaleducation", title: "Github" },
         { url: "https://fgv-vis-2025.github.io/final-project-internacionaleducation/", title: "Página" }
     ];
